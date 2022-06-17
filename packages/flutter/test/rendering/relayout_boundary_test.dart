@@ -2,6 +2,10 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+<<<<<<< HEAD
+=======
+import 'package:flutter/rendering.dart';
+>>>>>>> cd41fdd495f6944ecd3506c21e94c6567b073278
 import 'package:flutter/widgets.dart';
 import 'package:flutter_test/flutter_test.dart';
 

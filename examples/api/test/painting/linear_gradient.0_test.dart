@@ -3,6 +3,10 @@
 // found in the LICENSE file.
 
 import 'package:flutter/material.dart';
+<<<<<<< HEAD
+=======
+import 'package:flutter/widgets.dart';
+>>>>>>> cd41fdd495f6944ecd3506c21e94c6567b073278
 import 'package:flutter_api_samples/painting/gradient/linear_gradient.0.dart'
     as example;
 import 'package:flutter_test/flutter_test.dart';
